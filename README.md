@@ -9,14 +9,14 @@
 ## Описание проекта
 Вдохновившись видосами на YouTube канале [AlexGyver](https://www.youtube.com/channel/UCgtAOyEQdAyjvm9ATCi_Aig) решил попробовать свои силы и, вооружившись пачкой ардуин и прочих модулей, наваял **пульт ДУ для ТВ LG** (делал для своего **LG42LB650V**, поэтому за работоспособность на других не отвечаю).
 ### Прототип в сборе
-![Прототип](https://github.com/MISTikus/Arduino_LG_Remote_Control/blob/master/prototype.jpg)
+![Прототип](prototype.jpg)
 
 <a id="chapter-1"></a>
 ## Схемы подключения
 ### Схема с питанием от USB
-![Схема](https://github.com/MISTikus/Arduino_LG_Remote_Control/blob/master/scheme_usb.jpg)
+![Схема](scheme_usb.jpg)
 ### Другой вариант той же схемы
-![Схема](https://github.com/MISTikus/Arduino_LG_Remote_Control/blob/master/schematic_usb.jpg)
+![Схема](schematic_usb.JPG)
 
 <a id="chapter-2"></a>
 ## Материалы и компоненты
